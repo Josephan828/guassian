@@ -1,0 +1,10 @@
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.exe
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.deps.json
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.runtimeconfig.json
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.dll.config
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.pdb
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\FontAwesome.Sharp.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\Guna.UI2.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\System.Management.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\runtimes\win\lib\net7.0\System.Management.dll

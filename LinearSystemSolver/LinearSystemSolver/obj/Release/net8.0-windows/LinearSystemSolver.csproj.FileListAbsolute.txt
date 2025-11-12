@@ -1,0 +1,50 @@
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.exe
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.dll.config
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.deps.json
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.runtimeconfig.json
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.pdb
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\FontAwesome.Sharp.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\Guna.UI2.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\System.Management.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.csproj.AssemblyReference.cache
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.MainForm.resources
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.SolverForm.resources
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.csproj.GenerateResource.cache
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.AssemblyInfoInputs.cache
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.AssemblyInfo.cs
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.csproj.CoreCompileInputs.cache
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSy.BB66DB7B.Up2Date
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\refint\LinearSystemSolver.dll
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.pdb
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.genruntimeconfig.cache
+D:\First Grade\Design Patterns\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\ref\LinearSystemSolver.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.exe
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.dll.config
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.deps.json
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.runtimeconfig.json
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\LinearSystemSolver.pdb
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\FontAwesome.Sharp.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\Guna.UI2.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\System.Management.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.csproj.AssemblyReference.cache
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.MainForm.resources
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.SolverForm.resources
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.SplashForm.resources
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.csproj.GenerateResource.cache
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.AssemblyInfoInputs.cache
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.AssemblyInfo.cs
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.csproj.CoreCompileInputs.cache
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSy.BB66DB7B.Up2Date
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\refint\LinearSystemSolver.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.pdb
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.genruntimeconfig.cache
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\ref\LinearSystemSolver.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\obj\Release\net8.0-windows\LinearSystemSolver.PreviewForm.resources

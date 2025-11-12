@@ -1,0 +1,10 @@
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.exe
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.deps.json
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.runtimeconfig.json
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.dll.config
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\LinearSystemSolver.pdb
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\FontAwesome.Sharp.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\Guna.UI2.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\System.Management.dll
+D:\projects\LinearSystemSolver\LinearSystemSolver\bin\Release\net8.0-windows\publish\runtimes\win\lib\net7.0\System.Management.dll

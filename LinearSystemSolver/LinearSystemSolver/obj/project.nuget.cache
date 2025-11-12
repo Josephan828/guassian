@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4VzoTicT0c=",
+  "success": true,
+  "projectFilePath": "D:\\projects\\LinearSystemSolver\\LinearSystemSolver\\LinearSystemSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\super\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\projects\\LinearSystemSolver\\LinearSystemSolver\\LinearSystemSolver.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\projects\\LinearSystemSolver\\LinearSystemSolver\\LinearSystemSolver.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
