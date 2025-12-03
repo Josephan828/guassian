@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2F94EY9vJaQ=",
+  "success": true,
+  "projectFilePath": "D:\\projects\\MatrixInversion\\MatrixInversion\\MatrixInversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\super\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
